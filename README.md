@@ -1,7 +1,7 @@
 # text editor app
 this app uses indexDB with get and put methods to store data to cache.
-when you refresh the page the data is persistent
-
+when you refresh the page the data is persistent.</break>
+it is also installable and will prompt the user when the install button is pressed.
 # deployed Heroku app!
 https://pwa-texteditor2-483d35e19369.herokuapp.com/
 
