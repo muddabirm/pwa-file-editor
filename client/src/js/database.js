@@ -43,7 +43,7 @@ export const getDb = async () => {
   
   console.log('RETRIEVED SUCCESSFULLY', success)
   
-  return(success) // returns saved value
+  return success.value // returns saved value form success obj
 
 }
 
