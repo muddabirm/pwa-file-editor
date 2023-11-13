@@ -5,4 +5,5 @@ it is also installable and will prompt the user when the install button is press
 # deployed Heroku app!
 https://pwa-texteditor2-483d35e19369.herokuapp.com/
 
-![image](https://github.com/muddabirm/pwa-file-editor/assets/33209109/4aa420e4-2fae-4af3-ab70-2fac705336fd)
+![image](https://github.com/muddabirm/pwa-file-editor/assets/33209109/06676e56-cd73-40c8-b912-058f7b81447f)
+
